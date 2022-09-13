@@ -13,4 +13,4 @@
  ### Add picture
 
 
-!(picture)(https://hauntedattractiononline.com/wp-content/uploads/2016/09/picher_oklahoma.jpg)
+![picture](https://hauntedattractiononline.com/wp-content/uploads/2016/09/picher_oklahoma.jpg)
